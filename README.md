@@ -21,6 +21,24 @@ from you and returns the all possible onion links which are related with
 your entered keyword or topic.
 > this tool made by @vaimpier_ritik
 
+## Currently supported Search engines
+- ahmia
+- darksearchio
+- onionland
+- notevil
+- darksearchenginer
+- phobos
+- onionsearchserver
+- torgle
+- onionsearchengine
+- tordex
+- tor66
+- tormax
+- haystack
+- multivac
+- evosearch
+- deeplink
+
 <br>
 
 ### Results will saved into Result/
