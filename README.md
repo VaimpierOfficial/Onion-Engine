@@ -13,10 +13,10 @@
 
 ### What is Onion-Engine ?
 > This script use for Accessing Darkweb ( .onion links ) Contents.
-> Many times you just want to use special 
-contents but due to hiding security onion links you dont know so If you find yourself in that 
+> Many times you just want to surf special 
+contents but due to hiding security, onion links you dont know so If you find yourself in that 
 situation then this Tool is the perfect tool for you!
-> his tool will actually taking keyword
+> This tool will actually taking keyword
 from you and returns the all possible onion links which are related with
 your entered keyword or topic.
 > this tool made by @vaimpier_ritik
