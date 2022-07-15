@@ -23,26 +23,10 @@ your entered keyword or topic.
 
 <br>
 
-### Custom Message x Important
+### Results will saved into Result/
  
-> `nano message.conf`
-- Type there with your custom message and press ctrl + x to save it then start attack ...
-- First Make Fake id and Enable lesssecureapps then install
+> `cat Result/<Your_filename>.txt`
 <br>
-
-### Installation & Step's in Termux or else
- 
-> `apt update && apt upgrade`
-
-> `pkg install python3 git`
-
-> `git clone https://github.com/VaimpierOfficial/Vaim-Emsg`
- 
-> `cd Vaim-Emsg`  
- 
-> `chmod +x *`  
-
-> `bash setup.sh`
 
 <br>
 
@@ -52,17 +36,17 @@ your entered keyword or topic.
 
 > `apt install python3`
 
-> `git clone https://github.com/VaimpierOfficial/Vaim-Emsg`
+> `git clone https://github.com/VaimpierOfficial/Onion-Engine`
  
-> `cd Vaim-Emsg`  
+> `cd Onion-Engine`  
  
-> `bash setup.sh`
+> `python3 Vaim-Onion.py` 
 
 <br>
 
 ### Opening & Step's
  
-> `python3 Vaim-Emsg.py`
+> `python3 Vaim-Onion.py`
 
 <br>
 
