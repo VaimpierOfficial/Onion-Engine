@@ -77,5 +77,6 @@ Youtube [@Vaimpier_Ritik](https://www.youtube.com/channel/UCDWhaLh7OIKzH4Bk952l7
 
 
 ### For Video Tutorial
+- VIDEO SOON GUYS WAIT FOR SOME DAYS
 - <a href="https://www.youtube.com/watch?v=sBZEcIDVYY8"> CLICK HERE AND SEE TUTORIAL ON LAPTOP</a>
 - <a href="https://www.youtube.com/watch?v=uZZlT9IeeFM"> CLICK HERE AND SEE TUTORIAL FOR ANDROID</a>
