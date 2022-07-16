@@ -54,11 +54,11 @@ your entered keyword or topic.
 
 > `apt install python3 git`
 
+> `cd Onion-Engine`  
+
 > `python3 installc.py`
 
 > `git clone https://github.com/VaimpierOfficial/Onion-Engine`
- 
-> `cd Onion-Engine`  
  
 > `python3 Vaim-Onion.py` 
 
